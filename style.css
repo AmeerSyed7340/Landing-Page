@@ -177,6 +177,16 @@ p {
     margin: 0;
 }
 
-#btn-bottom{
+#btn-bottom {
     border: 2px solid #E5E7EB;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+    background: #1F2937;
+    height: 4em;
+    margin-top: 2em;
 }
